@@ -20,8 +20,8 @@ Collaboration Interests
 	•	Consulting on AI system design and deployment
 
 Contact
-	•	Email: aadithya.vs@gmail.com
-	•	LinkedIn: linkedin.com/in/aadithya-vishnu
+	•	Email: axdithya@gmail.com
+	•	LinkedIn: https://www.linkedin.com/in/aadithya-vishnu-sajeev-853a341a6/
 	•	GitHub: github.com/axdithyaxo
 
 Selected Projects
