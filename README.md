@@ -1,6 +1,6 @@
 Hi, I’m Aadithya Vishnu Sajeev
 
-I’m a Master’s graduate in Secure Software Engineering at Dublin City University with a strong focus on AI, NLP, and Retrieval-Augmented Generation (RAG) systems.
+I’m a Master’s graduate in Data Analytics at Dublin City University with a strong focus on AI, NLP, and Retrieval-Augmented Generation (RAG) systems.
 My work blends machine learning, AI safety, and systems engineering to build privacy-preserving, production-grade AI applications.
 
 What I Do
