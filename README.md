@@ -1,6 +1,6 @@
 ## Hi, I’m Aadithya Vishnu Sajeev
 
-Co-founder of SnathAI — creator of Lár, the open-source Glass-Box Agent Engine
+Co-founder of **[SnathAI](https://github.com/snath-ai)** — creator of **[Lár](https://github.com/snath-ai/lar)**, the open-source Glass-Box Agent Engine
 
 I’m a Master’s graduate in Data Analytics at Dublin City University, working at the intersection of AI systems engineering, agent architectures, and safe deployment of LLMs in production environments.
 
@@ -11,7 +11,7 @@ I build tools and frameworks that simplify AI development, increase transparency
 
 ## What I Do
 
-- Co-founded **[SnathAI](https://github.com/snath-ai)** , where we are building **[Lár](https://github.com/snath-ai/lar)** — an open-source, Apache-2.0 “glass box” execution engine for LLM agents.
+- Co-founded **SnathAI** , where we are building **Lár** — an open-source, `Apache-2.0` “glass box” execution engine for LLM agents.
 
 - Design auditable, debuggable agent frameworks that remove the complexity of LangChain-style black boxes.
 
