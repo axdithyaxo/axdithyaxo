@@ -82,7 +82,7 @@ A secure AI-integrated forensic analyzer for log triage and anomaly detection.
 
 - Email: axdithya@gmail.com
 
-- LinkedIn: aadithya-vishnu-sajeev
+- LinkedIn: [aadithya-vishnu-sajeev](https://www.linkedin.com/in/aadithya-vishnu-sajeev-853a341a6/)
 
 - GitHub: axdithyaxo
 
