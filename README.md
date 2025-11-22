@@ -57,21 +57,21 @@ I build tools and frameworks that simplify AI development, increase transparency
 
 ## Projects
 
-### **[Lár](https://github.com/snath-ai/lar)** — The Glass-Box Agent Engine (Apache-2.0)
+1. ### **[Lár](https://github.com/snath-ai/lar)** — The Glass-Box Agent Engine (Apache-2.0)
 
 An open-source, PyTorch-style engine for agent reasoning.
 Deterministic, verifiable, introspectable execution. Zero black boxes.
 
-### **[SnathAI Platform](https://github.com/snath-ai/lar)**
+2. ### **[SnathAI Platform](https://github.com/snath-ai/lar)**
 
 A developer-first agent debugging and observability layer built on top of Lár.
 Interactive state diffs, execution traces, and reproducible agent runs.
 
-### ZenithTech RAG Toolkit
+3. ### ZenithTech RAG Toolkit
 
 A local, fully private retrieval system using FAISS, PostgreSQL, and MCP tooling.
 
-### MCP Forensic Toolkit
+4. ### MCP Forensic Toolkit
 
 A secure AI-integrated forensic analyzer for log triage and anomaly detection.
 
