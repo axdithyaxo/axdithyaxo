@@ -11,7 +11,7 @@ I build tools and frameworks that simplify AI development, increase transparency
 
 ## What I Do
 
-- Co-founded SnathAI, where we are building Lár — an open-source, Apache-2.0 “glass box” execution engine for LLM agents.
+- Co-founded **[SnathAI](https://github.com/snath-ai)** , where we are building **[Lár](https://github.com/snath-ai/lar)** — an open-source, Apache-2.0 “glass box” execution engine for LLM agents.
 
 - Design auditable, debuggable agent frameworks that remove the complexity of LangChain-style black boxes.
 
@@ -84,7 +84,7 @@ A secure AI-integrated forensic analyzer for log triage and anomaly detection.
 
 - LinkedIn: aadithya-vishnu-sajeev
 
- -GitHub: axdithyaxo
+- GitHub: axdithyaxo
 
 
 
