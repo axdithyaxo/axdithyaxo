@@ -11,7 +11,7 @@
 
 ## What I Do
 
-- Co-founded **SnathAI** , where we are building **Lár** — an open-source, `Apache-2.0` “glass box” execution engine for LLM agents.
+- Co-founded **`SnathAI`** , where we are building **`Lár`** — an open-source, `Apache-2.0` “glass box” execution engine for LLM agents.
 
 - Design auditable, debuggable agent frameworks that remove the complexity of LangChain-style black boxes.
 
