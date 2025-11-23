@@ -1,10 +1,10 @@
 ## Hi, I’m Aadithya Vishnu Sajeev
 
-Co-founder of **[SnathAI](https://github.com/snath-ai)** and co-author of **[Lár Framework](https://github.com/snath-ai/lar)**, the open-source Glass-Box Agent Engine
+- Co-founder of **[SnathAI](https://github.com/snath-ai)** and co-author of **[Lár Framework](https://github.com/snath-ai/lar)**, the open-source `Glass-Box` Agent Engine
 
-I’m a Master’s graduate in Data Analytics at Dublin City University, working at the intersection of AI systems engineering, agent architectures, and safe deployment of LLMs in production environments.
+- I’m a Master’s graduate in Data Analytics at Dublin City University, working at the intersection of AI systems engineering, agent architectures, and safe deployment of LLMs in production environments.
 
-I build tools and frameworks that simplify AI development, increase transparency, and help developers deploy reliable, auditable agents at scale.
+- I build tools and frameworks that simplify AI development, increase transparency, and help developers deploy reliable, auditable agents at scale.
 
 
 ---
@@ -59,21 +59,21 @@ I build tools and frameworks that simplify AI development, increase transparency
 
 1. ### **[Lár](https://github.com/snath-ai/lar)** — The Glass-Box Agent Engine (Apache-2.0)
 
-An open-source, PyTorch-style engine for agent reasoning.
+- An open-source, PyTorch-style engine for agent reasoning.
 Deterministic, verifiable, introspectable execution. Zero black boxes.
 
 2. ### **[SnathAI Platform](https://github.com/snath-ai/lar)**
 
-A developer-first agent debugging and observability layer built on top of Lár.
+- A developer-first agent debugging and observability layer built on top of Lár.
 Interactive state diffs, execution traces, and reproducible agent runs.
 
 3. ### ZenithTech RAG Toolkit
 
-A local, fully private retrieval system using FAISS, PostgreSQL, and MCP tooling.
+- A local, fully private retrieval system using FAISS, PostgreSQL, and MCP tooling.
 
 4. ### MCP Forensic Toolkit
 
-A secure AI-integrated forensic analyzer for log triage and anomaly detection.
+- A secure AI-integrated forensic analyzer for log triage and anomaly detection.
 
 
 ---
@@ -84,13 +84,13 @@ A secure AI-integrated forensic analyzer for log triage and anomaly detection.
 
 - LinkedIn: [aadithya-vishnu-sajeev](https://www.linkedin.com/in/aadithya-vishnu-sajeev-853a341a6/)
 
-- GitHub: axdithyaxo
+- GitHub: [axdithyaxo](https://github.com/axdithyaxo/axdithyaxo/)
 
 
 
 ---
 
-## Fun Fact
+## Core
 
 I believe AGI-era developer tools should be interpretable, reliable, and open-source — and I’m building SnathAI and Lár to make that future possible.
 
