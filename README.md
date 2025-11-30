@@ -80,7 +80,7 @@ Interactive state diffs, execution traces, and reproducible agent runs.
 
 ## Contact
 
-- Email: axdithya@gmail.com
+- Email: axdithya@snath.ai
 
 - LinkedIn: [aadithya-vishnu-sajeev](https://www.linkedin.com/in/aadithya-vishnu-sajeev-853a341a6/)
 
