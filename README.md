@@ -1,98 +1,87 @@
 ## Hi, I’m Aadithya Vishnu Sajeev
 
-- Co-founder and CTO @ **[SnathAI](https://github.com/snath-ai)** and the author of **[Lár](https://github.com/snath-ai/lar)**, the open-source `Glass-Box` Agent Engine
+- **Lead Maintainer** & Author of **[Lár](https://github.com/snath-ai/lar)**, an open-source `Glass-Box` Agent Engine for deterministic AI orchestration.
 
-- I’m a Master’s graduate in Data Analytics at Dublin City University, working at the intersection of AI systems engineering, agent architectures, and safe deployment of LLMs in production environments.
+- I’m a Master’s graduate in Data Analytics at Dublin City University, specializing in AI systems engineering, graph-based agent architectures, and the safe deployment of LLMs.
 
-- I build tools and frameworks that simplify AI development, increase transparency, and help developers deploy reliable, auditable agents at scale.
+- My focus is on **infrastructure-as-code for agents**: building open tools that simplify development, increase transparency, and help engineers debug complex reasoning loops.
 
 
 ---
 
 ## What I Do
 
-- Co-founded **`SnathAI`** , where we are building **`Lár`** — an open-source, `Apache-2.0` “glass box” execution engine for LLM agents.
+- Maintain **`Lár`** — an open-source, `Apache-2.0` execution engine that brings "PyTorch-style" define-by-run logic to AI agents.
 
-- Design auditable, debuggable agent frameworks that remove the complexity of LangChain-style black boxes.
+- Design **auditable, debuggable architectures** that replace "black box" complexity with transparent state machines.
 
-- Lead development of modular MCP (Model Context Protocol) servers for enterprise-grade AI workflows.
+- Develop modular **MCP (Model Context Protocol)** servers for enterprise-grade tool integration.
 
-- Build local, privacy-preserving RAG pipelines integrating FAISS, PostgreSQL, semantic search, and tool-augmented LLM reasoning.
+- Build **Privacy-First RAG pipelines** utilizing FAISS, PostgreSQL, and local semantic search for sensitive data environments.
 
-- Research and prototype safe agentic systems, fine-tuning (LoRA/PEFT), and self-correcting LLM workflows.
-
+- Research **Safe Agentic Systems**, focusing on determinism, error recovery, and self-correcting workflows.
 
 
 ---
 
 ## What I'm Learning & Building Toward
 
-- Multi-agent architectures with real-time introspection
+- **Graph Theory** applied to Multi-Agent orchestration
 
-- Synthetic evaluation, error-detection pipelines, and agent observability
+- **Synthetic Evaluation** & Automated Error-Detection pipelines
 
-- Efficient specialization of LLMs for biomedical, enterprise, and embedded systems
+- **Embedded LLMs** for biomedical and high-compliance systems
 
-- Reinforcement-driven self-correcting agents
-
-- Dynamically composable AI pipelines for production workloads
-
+- **State Management** patterns for long-running, resilient agents
 
 
 ---
 
 ## Collaboration Interests
 
-- AI agents & multi-agent system design
+- Open Source AI Infrastructure
 
-- AI safety, model interpretability, and robust evaluation
+- AI Safety & Model Interpretability
 
-- Developer tooling (frameworks, SDKs, agent debuggers)
+- Developer Tooling (Debuggers, SDKs, Tracing)
 
-- Applied AI in biomedical and scientific research
-
+- Applied AI in Scientific & Research Domains
 
 
 ---
 
-## Projects
+## Open Source Projects
 
-1. ### **[Lár](https://github.com/snath-ai/lar)** — The Glass-Box Agent Engine (Apache-2.0)
+1. ### **[Lár Engine](https://github.com/snath-ai/lar)** — The Glass-Box Agent Framework (Apache-2.0)
+   - A deterministic, graph-based engine for building verifiable agents.
+   - Features: Full state introspection, step-by-step replayability, and zero abstraction leaks.
 
-- An open-source, PyTorch-style engine for agent reasoning.
-Deterministic, verifiable, introspectable execution. Zero black boxes.
+2. ### **Lár Debugger & Visualizer**
+   - A developer tool for inspecting agent decision paths.
+   - Provides interactive state diffs and execution traces to debug logic failures in real-time.
 
-2. ### **[SnathAI Platform](https://github.com/snath-ai/lar)**
+3. ### **ZenithTech RAG Toolkit**
+   - A local, fully private retrieval system using FAISS and PostgreSQL.
 
-- A developer-first agent debugging and observability layer built on top of Lár.
-Interactive state diffs, execution traces, and reproducible agent runs.
-
-3. ### ZenithTech RAG Toolkit
-
-- A local, fully private retrieval system using FAISS, PostgreSQL, and MCP tooling.
-
-4. ### MCP Forensic Toolkit
-
-- A secure AI-integrated forensic analyzer for log triage and anomaly detection.
+4. ### **MCP Forensic Toolkit**
+   - An AI-integrated forensic analyzer for log triage and anomaly detection.
 
 
 ---
 
 ## Contact
 
-- Email: axdithya@snath.ai
+- Email: [Your Personal Email - e.g., aadithya@gmail.com]
 
 - LinkedIn: [aadithya-vishnu-sajeev](https://www.linkedin.com/in/aadithya-vishnu-sajeev-853a341a6/)
 
 - GitHub: [axdithyaxo](https://github.com/axdithyaxo/axdithyaxo/)
 
 
-
 ---
 
-## Core
+## Core Philosophy
 
-I believe AGI-era developer tools should be interpretable, reliable, and open-source — and I’m building SnathAI and Lár to make that future possible.
-
+I believe the next generation of AI tools must be **interpretable, deterministic, and reliable**. I build open-source infrastructure like **Lár** to help developers move from "magic" prototypes to engineering-grade systems.
 
 ---
