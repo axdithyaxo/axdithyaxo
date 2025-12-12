@@ -71,7 +71,7 @@
 
 ## Contact
 
-- Email: [Your Personal Email - e.g., aadithya@gmail.com]
+- Email: [axdithya@gmail.com]
 
 - LinkedIn: [aadithya-vishnu-sajeev](https://www.linkedin.com/in/aadithya-vishnu-sajeev-853a341a6/)
 
