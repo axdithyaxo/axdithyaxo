@@ -1,6 +1,6 @@
 ## Hi, I’m Aadithya Vishnu Sajeev
 
-- **Lead Maintainer** & Author of **[Lár](https://github.com/snath-ai/lar)**, an open-source `Glass-Box` Agent Engine for deterministic AI orchestration.
+- **Lead Maintainer** & Co Author of **[Lár](https://github.com/snath-ai/lar)**, an open-source `Glass-Box` Agent Engine for deterministic AI orchestration.
 
 - I’m a Master’s graduate in Data Analytics at Dublin City University, specializing in AI systems engineering, graph-based agent architectures, and the safe deployment of LLMs.
 
