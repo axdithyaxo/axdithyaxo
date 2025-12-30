@@ -11,7 +11,7 @@
 
 ## What I Do
 
-- Authored and Maintain **`Lár`** — an open-source, `Apache-2.0` execution engine that brings "PyTorch-style" define-by-run logic to AI agents.
+- Authored and Maintain **`[Lár](https://github.com/snath-ai/lar)`** — an open-source, `Apache-2.0` execution engine that brings "PyTorch-style" define-by-run logic to AI agents.
 
 - Design **auditable, debuggable architectures** that replace "black box" complexity with transparent state machines.
 
