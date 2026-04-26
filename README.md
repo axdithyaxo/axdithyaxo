@@ -1,8 +1,6 @@
 # Aadithya Vishnu Sajeev
 
-I see patterns in the noise before the noise knows it's a pattern.
-
-I'm from Kerala. I live in Dublin. I build things because I can't not build them.
+I see patterns in the noise.
 
 On November 11, 2024, I wanted to build something like PyTorch — but for agents. Not a wrapper. Not another LangChain. A ground-up rethink of what agentic infrastructure should actually be.
 
