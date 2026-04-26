@@ -2,9 +2,9 @@
 
 I see patterns in the noise.
 
-On November 11, 2024, I wanted to build something like PyTorch — but for agents. Not a wrapper. Not another LangChain. A ground-up rethink of what agentic infrastructure should actually be.
+On November 11, 2024, I set out to build something like PyTorch—but for agents. Not a wrapper, not another "magic" framework, but a ground-up rethink of what agentic infrastructure should actually be.
 
-109 days later I had Lár, Lár-JEPA, DMN, and a compliance architecture mapped to the EU AI Act. I didn't plan most of it. The ideas emerged as I followed the logic of the problem wherever it led.
+109 days later, I had Lár, Lár-JEPA, DMN, and a compliance architecture mapped to the EU AI Act. I didn't plan most of it; the ideas emerged as I followed the internal logic of the problem wherever it led.
 
 That's how I build everything.
 
@@ -12,33 +12,36 @@ That's how I build everything.
 
 ## The Work
 
-### [Lár](https://github.com/snath-ai/lar) — The Glass-Box Agent Engine
+### [Lár](https://github.com/snath-ai/lar) — The Glass-Box Agent Engine (v1.7.1)
 *The PyTorch for Agents.*
 
-Most agent frameworks are black boxes. When they fail in production you get a 100-line stack trace and no idea what happened, why, or how much it cost. I built Lár because I think that's the wrong foundation for serious AI systems.
+Most agent frameworks are black boxes. When they fail in production, you get a 100-line stack trace and no idea what happened, why, or how much it cost. I built Lár because trust is the only foundation for serious AI systems.
 
-Lár is a deterministic, define-by-run graph execution engine. Every node, every state change, every decision is logged to a forensic flight recorder. Built-in HMAC cryptographic audit trails. EU AI Act Article 12/13/14 compliant by architecture. Air-gap capable. FDA 21 CFR Part 11 ready.
-
-Not magic. Not wrappers. Just pure, debuggable Python you actually own.
-
-**The numbers:** 1% LLM + 99% code hybrid architecture. 0.08s vs 64s latency. $0.00 vs $3.60/run vs standard frameworks. LangGraph hits recursion limit at step 25. Lár ran 10,000+ steps without a single error.
+Lár is a **deterministic, define-by-run graph execution engine**. Every node, every state change, and every decision is logged to a forensic flight recorder.
+- **Compliance by Architecture**: Built-in HMAC cryptographic audit trails. Native alignment with EU AI Act Art. 12 (Logging), Art. 13 (Transparency), and Art. 14 (Human Oversight).
+- **The Validation Suite**: A robust "Kitchen Sink" suite proving deterministic DAG execution and safe "Fractal Agency" (recursive graph expansion).
+- **The Numbers**: 1% LLM + 99% code hybrid architecture. 0.08s latency vs 60s+ in standard frameworks. Lár has run 10,000+ steps without a single error where others hit recursion limits at step 25.
 
 ### [Lár-JEPA](https://github.com/snath-ai/Lar-JEPA) — Post-LLM Orchestration
-*The nervous system for world models.*
+*The universal nervous system for world models.*
 
-Every major agent framework assumes text in, text out. That assumption breaks when your model outputs a 768-dimensional tensor representing the abstract state of a physical environment.
-
-Lár-JEPA is the deterministic execution spine for Predictive World Models — routing high-dimensional latent tensors without text prompting. The industry is building the brain. This is the nervous system.
+Lár-JEPA is the execution spine for **Predictive World Models**. It solves the "Autoregressive Bottleneck" by routing high-dimensional **latent tensors** directly—bypassing text prompting entirely.
+- **Unified Model Routing**: Routes LLMs, JEPAs, and GNNs as first-class `AbstractCognitiveNode` instances in the same graph.
+- **Mathematical Safety**: Uses a `TensorSafeEncoder` for native tensor logging and a **Spatial Kinematics Engine** to veto structurally entropic predictions (physics-based routing).
+- **System 1 / System 2**: Formally orchestrates the difference between fast-reflex execution and deep-simulation planning in latent manifolds.
 
 ### [DMN](https://github.com/snath-ai/DMN) — Bicameral Memory Architecture
-*An organism, not a tool.*
+*Autopoietic AI: An organism, not a tool.*
 
-Standard agents have amnesia. DMN implements a biologically-inspired Default Mode Network — a background daemon that watches execution logs, sleeps, dreams, and consolidates short-term memory into long-term semantic understanding via ChromaDB. Solves catastrophic forgetting without retraining. Gets smarter while you're away.
+Standard agents suffer from amnesia. DMN implements a biologically-inspired **Default Mode Network**—a 24/7 background cognitive system for memory consolidation.
+- **3-Tier Memory Architecture**: Parallel management of **Hot** (Working), **Warm** (Semantic), and **Cold** (Episodic) memory tiers.
+- **The Neuro-Architecture**: Implements a **Thalamus** gateway, a **Prefrontal Cortex** for context compression, and an **Amygdala** for persistent emotional state (Valence/Arousal).
+- **Wake Up Protocol**: Consolidates raw interaction logs into narratives during "sleep" periods, injecting the "Last Dream" back into the prompt upon waking to solve catastrophic forgetting.
 
 ### [Metacognition](https://docs.snath.ai/core-concepts/9-metacognition/) — Dynamic Self-Modifying Graphs
 *Agents that rewrite their own execution topology at runtime. Safely.*
 
-DynamicNode generates JSON graph specs — including BatchNodes for parallel execution — validated by a deterministic TopologyValidator. Self-modification as an auditable event, not a jailbreak risk. The AI proposes. The code decides.
+Lár’s `DynamicNode` allows agents to propose new graph sub-topologies during execution. But unlike open loops, it is guarded by a deterministic `TopologyValidator` that scans for unauthorized nodes and infinite cycles. Self-modification is an auditable event, not a security risk.
 
 ---
 
@@ -57,21 +60,21 @@ DynamicNode generates JSON graph specs — including BatchNodes for parallel exe
 The industry is building the Brain.
 I'm building the Nervous System.
 
-Never use an LLM to police another LLM. Use code.
+Never use an LLM (unreliable) to police another LLM. Use code (reliable).
 An approval is not a flag. It is a cryptographic signature of a specific state.
-Self-modifying code is only dangerous in a black box. In a glass box it's just evolution with an audit trail.
+Self-modifying code is only dangerous in a black box. In a glass box, it's just evolution with an audit trail.
 
 ---
 
 ## The Stack
 ```
-Lár           → deterministic execution
-Lár-JEPA      → world model orchestration
-DMN           → persistent bicameral memory
-Metacognition → safe self-modification
+Lár           → deterministic execution (Glass Box)
+Lár-JEPA      → world model orchestration (Nervous System)
+DMN           → persistent bicameral memory (Hippocampus/PFC)
+Metacognition → safe self-modification (Evolution)
 ```
 
-Execution spine → world modelling → persistent memory → self-awareness.
+**Execution spine → World modelling → Persistent memory → Self-awareness.**
 
 A complete cognitive architecture. Built from scratch. In public. Under Apache 2.0.
 
