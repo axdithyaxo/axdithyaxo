@@ -2,7 +2,7 @@
 
 I see patterns in the noise.
 
-On November 11, 2024, I set out to build something like PyTorch—but for agents. Not a wrapper, not another "magic" framework, but a ground-up rethink of what agentic infrastructure should actually be.
+On November 11, 2025, I set out to build something like PyTorch—but for agents. Not a wrapper, not another "magic" framework, but a ground-up rethink of what agentic infrastructure should actually be.
 
 109 days later, I had Lár, Lár-JEPA, DMN, and a compliance architecture mapped to the EU AI Act. I didn't plan most of it; the ideas emerged as I followed the internal logic of the problem wherever it led.
 
